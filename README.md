@@ -18,6 +18,7 @@ Finding the given length of the words by using len() fuction.
 ### Step 6: 
 Calling the function and Printing the number of words.
 ## PROGRAM:
+```
 #Program to get the word count from the text
 #Developed by: RAJARAMAN V
 #Register no: 23014299
@@ -27,11 +28,10 @@ with open('/content/drive/MyDrive/mk',"r") as f:
     words=line.split()
     num_words+=len(words)
   print("Number of words:",num_words)
+  ```
 ### OUTPUT:
 ![image](https://github.com/Rajaraman77/Word-count/assets/150319383/76dc9f08-7ef0-4ec2-a82f-063dc6ca7f4e)
-![image](https://github.com/Rajaraman77/Word-count/assets/150319383/6b5f90a4-af16-4c14-b60d-f29d4804d326)
-
-
+![image](https://github.com/Rajaraman77/Word-count/assets/150319383/65a931e1-cfe6-41e5-ab8a-7e4fc52c77e5)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
