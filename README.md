@@ -30,7 +30,8 @@ with open('/content/drive/MyDrive/mk',"r") as f:
   print("Number of words:",num_words)
   ```
 ### OUTPUT:
-![image](https://github.com/Rajaraman77/Word-count/assets/150319383/76dc9f08-7ef0-4ec2-a82f-063dc6ca7f4e)
+![image](https://github.com/Rajaraman77/Word-count/assets/150319383/dc2f43dc-2b02-42c4-ad48-8ee77cb6c448)
+
 ![image](https://github.com/Rajaraman77/Word-count/assets/150319383/65a931e1-cfe6-41e5-ab8a-7e4fc52c77e5)
 
 ## RESULT:
